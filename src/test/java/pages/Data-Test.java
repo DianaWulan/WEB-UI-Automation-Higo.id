@@ -16,8 +16,8 @@ public class DigitalReportPage {
     }
 
     //locator
-    By firstname = By.xpath("/html/body/main/div/section[30]/div/div[2]/form/div[2]/div[1]/input");
-    By lastname = By.xpath("/html/body/main/div/section[30]/div/div[2]/form/div[2]/div[2]/input");
+    By second = By.xpath("/html/body/main/div/section[30]/div/div[2]/form/div[2]/div[1]/input");
+    By third = By.xpath("/html/body/main/div/section[30]/div/div[2]/form/div[2]/div[2]/input");
     By email = By.xpath("/html/body/main/div/section[30]/div/div[2]/form/div[2]/div[3]/input");
     By phonenumber = By.xpath("/html/body/main/div/section[30]/div/div[2]/form/div[2]/div[4]/input");
     By companyname = By.xpath("/html/body/main/div/section[30]/div/div[2]/form/div[2]/div[5]/input");
