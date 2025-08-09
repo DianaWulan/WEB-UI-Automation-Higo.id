@@ -1,1 +1,1 @@
-print("Test 1234")
+print("ubah A")
