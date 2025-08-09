@@ -1,1 +1,1 @@
-print("ubah A")
+print("ganti B")
